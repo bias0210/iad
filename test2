@@ -1,0 +1,32 @@
+{
+"cities":
+[
+  {
+    "name": "Tokyo",
+    "lat": 35.6897,
+    "lng": 139.6922,
+    "country": "Japan",
+    "iso2": "JP",
+    "iso3": "JPN",
+    "population": 37977000
+  },
+  {
+    "name": "Jakarta",
+    "lat": -6.2146,
+    "lng": 106.8451,
+    "country": "Indonesia",
+    "iso2": "ID",
+    "iso3": "IDN",
+    "population": 34540000
+  },
+  {
+    "name": "Delhi",
+    "lat": 28.66,
+    "lng": 77.23,
+    "country": "India",
+    "iso2": "IN",
+    "iso3": "IND",
+    "population": 29617000
+  }
+]
+}
